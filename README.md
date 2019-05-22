@@ -1,5 +1,4 @@
 # data.bootcamp.final.project
-Examining the relationship between avocado prices and Chipotle share prices
 
 This project was completed by Michael Ding in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
 
